@@ -1,0 +1,1001 @@
+Student_ID,Known_Languages,Company,Package_LPA,Job_Role
+1,"Swift, Kotlin",Wipro,37.88,Software Engineer
+2,"Python, Kotlin",Tesla,15.8,Web Developer
+3,"C++, Python",TCS,33.09,Data Scientist
+4,"JavaScript, Java, Swift, Kotlin",Microsoft,23.7,Software Engineer
+5,"JavaScript, C++, Python",Facebook,36.28,Web Developer
+6,"Swift, Go, C++, Python",TCS,11.68,Mobile App Developer
+7,"Kotlin, Java, Swift",Apple,14.15,Data Scientist
+8,Swift,Apple,28.37,Data Scientist
+9,"JavaScript, Ruby",Microsoft,19.04,Data Scientist
+10,"Go, Python, PHP",Tesla,24.25,Mobile App Developer
+11,"C++, Swift",Facebook,5.08,Mobile App Developer
+12,"Kotlin, Ruby, C++, Swift",Google,27.82,DevOps Engineer
+13,"C++, PHP",Google,31.04,Software Engineer
+14,"Python, Ruby",Accenture,7.31,Software Engineer
+15,JavaScript,Tesla,10.98,Software Engineer
+16,Kotlin,IBM,24.76,DevOps Engineer
+17,"Java, C++, JavaScript",Wipro,33.49,Software Engineer
+18,"Go, Ruby",TCS,8.76,DevOps Engineer
+19,"Python, JavaScript",Accenture,31.62,Software Engineer
+20,Swift,Tesla,21.96,Software Engineer
+21,"Swift, Go",Wipro,38.37,Data Scientist
+22,"JavaScript, Java, Kotlin",Wipro,8.43,Web Developer
+23,Java,Google,19.74,Software Engineer
+24,Kotlin,Wipro,22.01,Web Developer
+25,"Swift, PHP, Go",Tesla,33.86,Software Engineer
+26,"Java, JavaScript",Amazon,17.15,Web Developer
+27,Ruby,IBM,26.59,Mobile App Developer
+28,"Python, JavaScript, Ruby, Go",TCS,10.8,Data Scientist
+29,"JavaScript, Java",Wipro,8.2,Data Scientist
+30,C++,Tesla,6.66,Mobile App Developer
+31,"C++, Go, Java",Wipro,35.24,Web Developer
+32,"Swift, C++, Kotlin",Accenture,33.44,Software Engineer
+33,"Kotlin, Swift, JavaScript, C++",Tesla,21.84,DevOps Engineer
+34,"Swift, Go",Facebook,11.06,Data Scientist
+35,JavaScript,IBM,19.74,Software Engineer
+36,PHP,Google,25.41,Mobile App Developer
+37,"PHP, Swift, Ruby",Apple,28.26,Data Scientist
+38,"Swift, C++, Java",IBM,10.72,Data Scientist
+39,"Python, PHP",Facebook,18.94,Web Developer
+40,"Swift, C++, Ruby",TCS,34.87,DevOps Engineer
+41,"Go, Kotlin, C++",Amazon,16.73,Data Scientist
+42,"Kotlin, C++, Java, Python",TCS,12.81,Software Engineer
+43,C++,Apple,12.88,Mobile App Developer
+44,JavaScript,Microsoft,5.98,Mobile App Developer
+45,"Swift, JavaScript, PHP, Python",Microsoft,21.88,DevOps Engineer
+46,Ruby,Apple,22.72,Mobile App Developer
+47,"Python, Swift",IBM,36.96,Software Engineer
+48,"Ruby, C++",Apple,32.22,Data Scientist
+49,"PHP, Java, Go",Amazon,16.33,DevOps Engineer
+50,Kotlin,Facebook,21.84,Data Scientist
+51,"C++, Java",Apple,26.11,Mobile App Developer
+52,"Swift, Java, Python, PHP",Amazon,5.56,DevOps Engineer
+53,"PHP, JavaScript, Python, Ruby",IBM,11.32,Mobile App Developer
+54,"Kotlin, Ruby",Microsoft,16.71,Mobile App Developer
+55,"Python, Swift, PHP",Facebook,21.01,DevOps Engineer
+56,"Swift, Ruby, Java, JavaScript",Wipro,8.76,Data Scientist
+57,"PHP, Kotlin",Tesla,22.49,Software Engineer
+58,"Ruby, Kotlin, Go, JavaScript",IBM,28.53,Web Developer
+59,Python,Microsoft,8.83,Data Scientist
+60,"Ruby, Go, Swift, C++",Google,13.54,Web Developer
+61,"Java, JavaScript, C++, PHP",Accenture,12.72,Software Engineer
+62,"JavaScript, Java, Swift, Ruby",Apple,23.29,Web Developer
+63,"PHP, Go",Google,29.16,DevOps Engineer
+64,"Java, Ruby",Wipro,9.78,Data Scientist
+65,"Ruby, Python, Kotlin",Microsoft,5.97,DevOps Engineer
+66,"Kotlin, C++",Amazon,14.8,Mobile App Developer
+67,"Swift, Kotlin, Ruby, Go",Facebook,22.09,Software Engineer
+68,C++,Apple,35.34,Mobile App Developer
+69,"Swift, Kotlin",Accenture,12.01,Data Scientist
+70,Java,Microsoft,33.32,Data Scientist
+71,JavaScript,Apple,39.58,DevOps Engineer
+72,"Kotlin, Python, Swift, PHP",Amazon,39.81,Data Scientist
+73,Swift,Apple,11.75,Web Developer
+74,PHP,Microsoft,17.44,Data Scientist
+75,"Go, Ruby, JavaScript",Google,25.22,DevOps Engineer
+76,"PHP, Python, Java, Swift",Facebook,39.66,Software Engineer
+77,"C++, Kotlin, Swift",Facebook,27.47,Mobile App Developer
+78,"Go, Swift",Tesla,6.42,Web Developer
+79,"Kotlin, Java, Python, Ruby",Wipro,30.5,Web Developer
+80,JavaScript,IBM,29.09,DevOps Engineer
+81,"Go, PHP, JavaScript, Kotlin",Tesla,8.24,Data Scientist
+82,"PHP, Ruby, Python",IBM,35.73,Software Engineer
+83,"Java, C++, JavaScript",Microsoft,33.06,DevOps Engineer
+84,Ruby,Tesla,9.52,Data Scientist
+85,"JavaScript, PHP",Wipro,39.19,Data Scientist
+86,"Java, C++, PHP",Google,29.25,DevOps Engineer
+87,"Ruby, PHP, C++, Swift",Facebook,15.42,Mobile App Developer
+88,C++,IBM,20.44,Web Developer
+89,Ruby,Apple,26.83,Data Scientist
+90,PHP,Accenture,19.76,Data Scientist
+91,PHP,Accenture,23.08,Mobile App Developer
+92,"Go, Kotlin",TCS,37.14,Mobile App Developer
+93,"Go, C++",Accenture,24.43,Web Developer
+94,Python,IBM,13.87,DevOps Engineer
+95,"Python, JavaScript, Go, Swift",Wipro,10.27,Data Scientist
+96,"Kotlin, Python, JavaScript",Amazon,32.4,Mobile App Developer
+97,"Python, Ruby",Wipro,7.7,DevOps Engineer
+98,"Python, Kotlin, Ruby",Amazon,22.45,Software Engineer
+99,"Kotlin, Go, PHP",Microsoft,17.01,Mobile App Developer
+100,Go,Google,13.34,Software Engineer
+101,PHP,Microsoft,6.95,DevOps Engineer
+102,"Java, Ruby",Amazon,34.27,Mobile App Developer
+103,"PHP, Java",TCS,5.81,Web Developer
+104,"Go, Ruby",Wipro,8.88,Data Scientist
+105,"Python, C++, Java",Tesla,20.24,Data Scientist
+106,C++,Apple,7.83,Mobile App Developer
+107,"Ruby, Swift",Amazon,12.42,Data Scientist
+108,"C++, PHP, Ruby",Facebook,14.03,Mobile App Developer
+109,"Go, Kotlin, JavaScript",Wipro,8.72,DevOps Engineer
+110,"JavaScript, Python",Microsoft,7.32,Data Scientist
+111,"Ruby, Python, PHP",Apple,13.0,Mobile App Developer
+112,Java,Accenture,21.62,Data Scientist
+113,Java,Microsoft,17.81,DevOps Engineer
+114,"JavaScript, Ruby, C++, Go",IBM,29.7,DevOps Engineer
+115,PHP,Amazon,16.47,Mobile App Developer
+116,"Kotlin, JavaScript",Facebook,6.18,Web Developer
+117,C++,Tesla,24.42,Data Scientist
+118,"C++, Kotlin, JavaScript",Amazon,12.29,Software Engineer
+119,"Kotlin, PHP, Go, Swift",Tesla,12.55,Mobile App Developer
+120,"Swift, JavaScript, Go",TCS,12.74,Data Scientist
+121,PHP,Apple,16.4,Software Engineer
+122,"Python, Kotlin, Java",TCS,7.71,Data Scientist
+123,JavaScript,Facebook,17.63,Mobile App Developer
+124,"JavaScript, C++",Amazon,21.64,Data Scientist
+125,"Go, Python",Wipro,30.02,Mobile App Developer
+126,"Swift, Kotlin",TCS,24.54,Data Scientist
+127,"PHP, Ruby, C++",Amazon,29.36,Data Scientist
+128,PHP,Accenture,21.82,Software Engineer
+129,Ruby,Amazon,10.47,Mobile App Developer
+130,"Java, JavaScript, PHP",Amazon,14.05,Data Scientist
+131,"Python, PHP, Go, Swift",Microsoft,20.08,Software Engineer
+132,"PHP, Java",Tesla,7.67,DevOps Engineer
+133,"Go, Python, C++, Swift",IBM,39.54,Web Developer
+134,Go,TCS,29.61,Data Scientist
+135,"Go, Swift, Python",Wipro,27.71,Web Developer
+136,"C++, Go, Kotlin, Swift",Wipro,18.0,Web Developer
+137,PHP,Tesla,27.39,Data Scientist
+138,"JavaScript, Go, C++, Swift",Google,33.85,Data Scientist
+139,PHP,Tesla,8.55,Web Developer
+140,"Python, C++",Google,31.09,Software Engineer
+141,"JavaScript, C++, Kotlin, Java",IBM,31.96,Mobile App Developer
+142,"Kotlin, JavaScript, C++, Ruby",Amazon,36.83,DevOps Engineer
+143,"Go, Ruby, JavaScript",Facebook,33.32,Mobile App Developer
+144,"Python, Ruby, JavaScript",Amazon,29.8,Data Scientist
+145,"Java, C++, Kotlin",Apple,36.74,DevOps Engineer
+146,"Swift, Ruby, Kotlin, C++",TCS,37.11,Software Engineer
+147,C++,Google,35.34,DevOps Engineer
+148,Go,Wipro,6.24,Mobile App Developer
+149,"Java, Ruby, JavaScript, C++",Google,8.68,Data Scientist
+150,"Python, JavaScript, PHP",Wipro,10.7,DevOps Engineer
+151,"C++, Swift, Java",Tesla,19.44,Mobile App Developer
+152,"PHP, Kotlin",Accenture,7.13,Web Developer
+153,"PHP, JavaScript, Ruby",Tesla,10.05,Software Engineer
+154,"JavaScript, Python, PHP, Kotlin",TCS,22.83,DevOps Engineer
+155,"PHP, Java, Go, Kotlin",Google,35.79,Mobile App Developer
+156,"Python, Kotlin, Ruby, PHP",Tesla,9.43,Web Developer
+157,"Java, Swift, Go",Apple,30.23,Data Scientist
+158,"Swift, Python",Microsoft,24.68,Data Scientist
+159,"Java, Python",Amazon,19.29,Mobile App Developer
+160,"Swift, JavaScript",TCS,23.99,Web Developer
+161,"Swift, Kotlin",Apple,15.83,Mobile App Developer
+162,Python,Microsoft,19.98,Software Engineer
+163,"JavaScript, Ruby, Python",Tesla,6.45,DevOps Engineer
+164,"Java, PHP, C++",Wipro,6.3,Mobile App Developer
+165,"PHP, C++",IBM,20.57,DevOps Engineer
+166,"Go, JavaScript, Python, PHP",Apple,19.66,Software Engineer
+167,"JavaScript, Java",Accenture,12.11,Data Scientist
+168,Go,IBM,23.01,Mobile App Developer
+169,"Ruby, C++, PHP",IBM,23.8,Data Scientist
+170,"Ruby, Python",Accenture,22.18,Software Engineer
+171,"Ruby, Python, Swift",TCS,19.64,Web Developer
+172,"Ruby, JavaScript",IBM,32.19,Software Engineer
+173,"Python, Swift, Ruby",Facebook,11.64,Data Scientist
+174,"Java, Python",Tesla,22.22,Mobile App Developer
+175,"Go, Ruby, Java",Facebook,32.55,Mobile App Developer
+176,Python,Facebook,20.24,DevOps Engineer
+177,"Go, Swift, Kotlin, Java",Apple,25.32,Web Developer
+178,"Kotlin, Ruby, Swift",Microsoft,29.58,Software Engineer
+179,"Python, JavaScript, Swift, Java",Apple,7.89,Software Engineer
+180,Python,TCS,32.28,Data Scientist
+181,"Ruby, Kotlin",Tesla,24.46,Web Developer
+182,"Swift, Go, JavaScript, Java",Accenture,6.77,Software Engineer
+183,C++,IBM,26.18,Mobile App Developer
+184,"C++, Go, Java, Swift",Wipro,12.06,Data Scientist
+185,"Ruby, Python, C++, Kotlin",TCS,24.08,Web Developer
+186,Python,Google,16.16,DevOps Engineer
+187,Python,Apple,32.27,DevOps Engineer
+188,"Java, Python, Kotlin, JavaScript",Google,5.05,Web Developer
+189,Ruby,Tesla,16.89,Data Scientist
+190,"Python, Swift, JavaScript, Ruby",Accenture,38.27,Software Engineer
+191,"PHP, Swift, JavaScript, C++",Accenture,25.77,Mobile App Developer
+192,Ruby,Microsoft,31.6,Web Developer
+193,"C++, Swift, PHP",Google,36.71,DevOps Engineer
+194,Python,Facebook,19.35,DevOps Engineer
+195,"PHP, Kotlin, Go, JavaScript",Amazon,14.3,Software Engineer
+196,"C++, JavaScript",TCS,37.97,Web Developer
+197,"Python, Ruby, JavaScript",TCS,16.34,Software Engineer
+198,"Python, C++, Java",Wipro,5.92,Web Developer
+199,"Ruby, C++, Java",Microsoft,33.95,Web Developer
+200,"Python, PHP, C++, JavaScript",TCS,24.38,Mobile App Developer
+201,"Java, Python, PHP, JavaScript",Wipro,25.05,DevOps Engineer
+202,"JavaScript, PHP, Java",Microsoft,8.37,Data Scientist
+203,"Python, PHP, Ruby, Java",Microsoft,8.77,DevOps Engineer
+204,"Ruby, Go",Apple,36.99,Data Scientist
+205,"C++, JavaScript, Java",IBM,28.27,Software Engineer
+206,"PHP, JavaScript, Swift, Java",Accenture,38.5,Mobile App Developer
+207,"Ruby, Swift",Amazon,11.21,Web Developer
+208,"C++, Java, PHP",IBM,11.82,Mobile App Developer
+209,"JavaScript, Go",TCS,37.27,Web Developer
+210,PHP,Tesla,5.53,Software Engineer
+211,C++,Google,28.36,Data Scientist
+212,"C++, Python, Kotlin",Tesla,7.97,DevOps Engineer
+213,Python,TCS,33.68,Mobile App Developer
+214,"Swift, Python",Facebook,12.1,Web Developer
+215,"Go, Kotlin, Swift",Google,37.6,Software Engineer
+216,"PHP, Kotlin, C++",Wipro,22.52,Data Scientist
+217,"Go, Python, Ruby, JavaScript",Google,11.23,Data Scientist
+218,"Ruby, Swift, Java, Kotlin",Amazon,21.33,Mobile App Developer
+219,"Kotlin, Go, JavaScript",Amazon,36.3,Software Engineer
+220,"Python, Ruby, Go, Kotlin",Amazon,13.15,Web Developer
+221,"Python, Kotlin, Swift, PHP",Facebook,20.0,Software Engineer
+222,Ruby,Tesla,32.33,Mobile App Developer
+223,"Java, Kotlin, C++",TCS,11.4,Data Scientist
+224,"Swift, JavaScript, Ruby, Python",TCS,37.76,Software Engineer
+225,"Go, Kotlin",Microsoft,37.6,Web Developer
+226,"Java, Go",Accenture,29.31,Software Engineer
+227,"JavaScript, Kotlin, Ruby, Go",Google,17.95,Web Developer
+228,"Go, Java, Swift",IBM,33.23,Mobile App Developer
+229,"PHP, Go, JavaScript",Google,6.55,Mobile App Developer
+230,"Kotlin, C++, JavaScript, Go",Facebook,36.77,DevOps Engineer
+231,"C++, Kotlin",Accenture,33.56,Web Developer
+232,"Ruby, Kotlin, Java",Microsoft,35.76,Web Developer
+233,Kotlin,Accenture,16.67,Software Engineer
+234,JavaScript,TCS,13.62,Web Developer
+235,"Go, C++",Facebook,17.58,Mobile App Developer
+236,JavaScript,TCS,33.67,Software Engineer
+237,"Kotlin, Java, PHP, C++",Microsoft,11.53,Data Scientist
+238,JavaScript,Google,33.13,Software Engineer
+239,"Ruby, Python, Java",Microsoft,37.29,Software Engineer
+240,"C++, Java, Go",Facebook,15.52,Mobile App Developer
+241,Kotlin,Tesla,37.5,Web Developer
+242,PHP,TCS,37.07,Data Scientist
+243,"Python, JavaScript, Kotlin",Google,31.45,Software Engineer
+244,"Python, JavaScript",Wipro,26.47,Software Engineer
+245,"Swift, Ruby, Go",Wipro,5.3,Software Engineer
+246,"C++, Python, Swift",Wipro,25.89,Web Developer
+247,"Swift, Go",Google,34.4,Data Scientist
+248,"Go, C++",Accenture,21.82,DevOps Engineer
+249,Go,Wipro,17.39,Web Developer
+250,Swift,Amazon,27.08,Software Engineer
+251,"Java, Swift, C++",Google,6.13,Web Developer
+252,"JavaScript, Swift, Ruby, Python",Tesla,34.37,Mobile App Developer
+253,Go,IBM,30.78,Mobile App Developer
+254,Ruby,Apple,22.42,Software Engineer
+255,"JavaScript, Swift",Amazon,32.3,Mobile App Developer
+256,JavaScript,Facebook,24.78,DevOps Engineer
+257,"Ruby, Go",Microsoft,26.13,Software Engineer
+258,"C++, Ruby, Java",Tesla,23.86,Data Scientist
+259,"PHP, Swift, C++, JavaScript",Google,18.35,Web Developer
+260,"C++, Java, PHP",Accenture,20.02,Data Scientist
+261,Swift,Wipro,31.36,Software Engineer
+262,"Ruby, Kotlin",Microsoft,34.93,Mobile App Developer
+263,Go,Google,34.19,Data Scientist
+264,PHP,Apple,30.5,Web Developer
+265,Ruby,Apple,38.17,Software Engineer
+266,"Java, C++",Accenture,17.26,DevOps Engineer
+267,"Go, JavaScript, Java",Amazon,19.79,Mobile App Developer
+268,C++,Google,23.14,Web Developer
+269,"Go, Swift, Ruby, JavaScript",Facebook,11.18,Web Developer
+270,"Kotlin, Java, Python",IBM,23.87,Mobile App Developer
+271,"Java, Ruby, JavaScript",Accenture,27.44,Software Engineer
+272,"Java, Go, JavaScript, PHP",Accenture,20.74,Web Developer
+273,"Kotlin, Go, C++, PHP",IBM,39.78,DevOps Engineer
+274,"Swift, Ruby, Kotlin",Wipro,10.09,DevOps Engineer
+275,"JavaScript, Ruby",Facebook,33.08,Software Engineer
+276,"JavaScript, Java, C++",Amazon,6.89,DevOps Engineer
+277,"Kotlin, Java",Apple,38.63,DevOps Engineer
+278,"Go, JavaScript, Python",Google,14.66,Data Scientist
+279,"Java, Kotlin",Tesla,21.29,DevOps Engineer
+280,"JavaScript, Kotlin",TCS,35.08,Software Engineer
+281,"JavaScript, C++, Kotlin, Ruby",IBM,14.81,DevOps Engineer
+282,"C++, PHP",IBM,12.2,Web Developer
+283,"C++, Go",Google,10.23,Data Scientist
+284,"Swift, Ruby, Python, Java",TCS,28.9,Software Engineer
+285,Python,Accenture,15.5,Web Developer
+286,"Ruby, Java, JavaScript",Facebook,17.68,DevOps Engineer
+287,"C++, Ruby, Go, Java",Google,39.2,Data Scientist
+288,Python,Google,27.25,Web Developer
+289,C++,Apple,27.49,Data Scientist
+290,"C++, Python",Tesla,37.79,DevOps Engineer
+291,"C++, Swift, Java, Ruby",Google,33.48,Data Scientist
+292,"Go, Java, Ruby, Kotlin",Facebook,31.85,Mobile App Developer
+293,Ruby,Tesla,36.51,Data Scientist
+294,"PHP, Swift, Kotlin",Apple,17.67,Data Scientist
+295,"Ruby, Go, Java",IBM,37.04,Web Developer
+296,"Ruby, Java, PHP",IBM,9.75,Data Scientist
+297,"PHP, Ruby, JavaScript",Amazon,22.85,DevOps Engineer
+298,JavaScript,Apple,27.73,DevOps Engineer
+299,Swift,TCS,36.52,DevOps Engineer
+300,C++,Accenture,5.92,Mobile App Developer
+301,"JavaScript, Swift",Tesla,16.59,Mobile App Developer
+302,"Python, Ruby, JavaScript",Facebook,17.8,Data Scientist
+303,"C++, Swift",Facebook,39.32,Mobile App Developer
+304,"Go, Kotlin, C++",Tesla,21.88,Data Scientist
+305,"Python, PHP, Kotlin",Facebook,21.93,Web Developer
+306,"Ruby, Kotlin, PHP",TCS,20.47,Software Engineer
+307,"C++, Go, Java",Accenture,11.92,Software Engineer
+308,Go,TCS,13.72,Web Developer
+309,PHP,TCS,34.23,Mobile App Developer
+310,Kotlin,Google,23.06,Software Engineer
+311,"JavaScript, Go, Kotlin, Java",IBM,7.91,Software Engineer
+312,"Python, Ruby, PHP, C++",TCS,31.44,Data Scientist
+313,"C++, Swift, PHP",Microsoft,30.77,Web Developer
+314,Ruby,Google,24.81,Mobile App Developer
+315,JavaScript,IBM,30.11,DevOps Engineer
+316,"JavaScript, Python, C++, Go",Facebook,8.34,Mobile App Developer
+317,"Python, PHP, JavaScript, Kotlin",Accenture,19.66,Software Engineer
+318,"Kotlin, Ruby, PHP, Swift",IBM,20.67,Data Scientist
+319,"Kotlin, Swift, Go, C++",Microsoft,19.71,DevOps Engineer
+320,Kotlin,Amazon,31.53,Mobile App Developer
+321,C++,Amazon,37.51,Mobile App Developer
+322,C++,Apple,34.69,Web Developer
+323,"Java, Swift",IBM,16.95,Mobile App Developer
+324,Ruby,Facebook,19.08,Data Scientist
+325,"Swift, Java, Python",Wipro,16.78,Data Scientist
+326,"Go, Ruby, Java",Facebook,19.8,Software Engineer
+327,Java,Microsoft,20.24,Software Engineer
+328,"Java, Swift, Go",Microsoft,15.12,Web Developer
+329,"Go, Python, Ruby",IBM,17.63,Software Engineer
+330,"Ruby, PHP, C++, Java",Microsoft,26.2,Mobile App Developer
+331,"Python, Ruby, Java",TCS,21.98,Data Scientist
+332,JavaScript,Amazon,21.01,DevOps Engineer
+333,Go,IBM,19.09,Data Scientist
+334,"Ruby, Java",Amazon,7.09,Web Developer
+335,"Python, PHP",Google,7.26,Mobile App Developer
+336,"C++, Ruby",IBM,14.17,DevOps Engineer
+337,"Kotlin, Ruby",Wipro,22.9,Software Engineer
+338,"Java, Kotlin, C++",IBM,14.7,DevOps Engineer
+339,"PHP, Kotlin, Ruby, JavaScript",Accenture,13.81,Web Developer
+340,"Go, PHP, Ruby",TCS,13.86,Software Engineer
+341,"Go, C++, Kotlin, Swift",IBM,5.53,Data Scientist
+342,"Ruby, PHP, Swift",Amazon,10.84,Software Engineer
+343,"Swift, Kotlin, Java",Google,8.84,Web Developer
+344,"Java, Ruby",IBM,30.06,Data Scientist
+345,Python,Microsoft,11.98,Data Scientist
+346,"PHP, Go, JavaScript, Python",Accenture,36.22,DevOps Engineer
+347,"JavaScript, Java, Swift, Go",Google,24.95,Data Scientist
+348,PHP,Accenture,13.52,DevOps Engineer
+349,Python,Amazon,21.18,DevOps Engineer
+350,"Java, Kotlin, Ruby",Tesla,6.87,Web Developer
+351,"Swift, Java, Ruby, Kotlin",Amazon,18.94,Mobile App Developer
+352,PHP,IBM,36.38,Web Developer
+353,Ruby,Google,12.55,Data Scientist
+354,"Java, C++, JavaScript, Go",Apple,24.84,Data Scientist
+355,"Go, Kotlin",Apple,39.05,Mobile App Developer
+356,JavaScript,IBM,36.6,Data Scientist
+357,"C++, PHP, Python",Facebook,31.63,Software Engineer
+358,"Kotlin, Swift",TCS,7.17,Data Scientist
+359,Swift,IBM,37.46,Data Scientist
+360,JavaScript,Wipro,8.75,Web Developer
+361,"Swift, Ruby",Amazon,28.3,Web Developer
+362,"PHP, C++",Microsoft,16.2,Data Scientist
+363,"JavaScript, PHP, Ruby, Python",Amazon,10.46,Web Developer
+364,Ruby,TCS,8.37,Mobile App Developer
+365,"Swift, C++",Microsoft,9.16,Web Developer
+366,"C++, Java, Kotlin, Ruby",Facebook,22.01,Software Engineer
+367,"Kotlin, JavaScript, C++",Microsoft,38.05,Mobile App Developer
+368,"Python, C++, Java",TCS,32.29,Data Scientist
+369,JavaScript,Apple,14.66,Software Engineer
+370,Go,Amazon,23.53,Mobile App Developer
+371,"Python, Go, PHP",Accenture,39.49,Web Developer
+372,"Kotlin, Go, PHP, Java",Wipro,21.14,DevOps Engineer
+373,"Python, PHP, Go, Java",Amazon,13.53,Mobile App Developer
+374,PHP,Google,17.2,Web Developer
+375,"JavaScript, PHP, Go",TCS,14.43,Mobile App Developer
+376,"Kotlin, C++",Google,15.92,Software Engineer
+377,"JavaScript, Ruby, C++, Python",Accenture,11.02,Mobile App Developer
+378,"Python, Java, Kotlin",Wipro,23.97,Mobile App Developer
+379,Python,Facebook,27.85,Data Scientist
+380,"C++, Python, Kotlin, PHP",Wipro,30.14,Data Scientist
+381,"Go, Python, PHP",Tesla,9.31,Software Engineer
+382,JavaScript,Microsoft,30.05,Data Scientist
+383,"C++, Kotlin, Python",Facebook,9.6,Data Scientist
+384,"Swift, PHP, Go, C++",Amazon,33.34,Web Developer
+385,"Python, Ruby",Microsoft,17.23,DevOps Engineer
+386,"Ruby, Swift",IBM,15.93,Software Engineer
+387,"Kotlin, Python, JavaScript",Apple,21.4,Mobile App Developer
+388,JavaScript,Google,24.83,DevOps Engineer
+389,"Swift, JavaScript, Kotlin",Microsoft,35.82,DevOps Engineer
+390,Go,Accenture,18.53,Mobile App Developer
+391,"JavaScript, Ruby, Kotlin, C++",IBM,14.69,Data Scientist
+392,"PHP, Python, Swift",Apple,19.35,DevOps Engineer
+393,Swift,Wipro,39.6,Web Developer
+394,"Go, Swift",Apple,36.8,Mobile App Developer
+395,"Kotlin, C++, Java, JavaScript",Facebook,14.06,Data Scientist
+396,"Java, Kotlin, C++, JavaScript",Wipro,37.51,Mobile App Developer
+397,"Swift, Ruby, Python",IBM,28.92,Web Developer
+398,"Swift, C++",Microsoft,33.02,DevOps Engineer
+399,"Kotlin, JavaScript, Java",Tesla,34.52,Software Engineer
+400,Kotlin,Google,6.33,DevOps Engineer
+401,"Java, Swift",Facebook,22.65,Mobile App Developer
+402,"Swift, Python",Facebook,27.93,Web Developer
+403,"Swift, PHP, C++, Java",Wipro,18.77,Data Scientist
+404,"Swift, Python, Go",Wipro,5.7,Mobile App Developer
+405,"Ruby, Python, C++",Amazon,26.54,Data Scientist
+406,Swift,Apple,19.4,Data Scientist
+407,Swift,Wipro,27.37,Web Developer
+408,Ruby,Microsoft,17.47,Software Engineer
+409,"C++, Swift, Go",Tesla,26.16,Software Engineer
+410,"C++, JavaScript",Amazon,15.74,Web Developer
+411,"Kotlin, PHP, Java",Amazon,21.16,DevOps Engineer
+412,PHP,Amazon,29.27,Mobile App Developer
+413,"JavaScript, Python, Ruby",TCS,34.15,Web Developer
+414,"Swift, Kotlin, Java, Python",IBM,18.82,Software Engineer
+415,PHP,Accenture,5.39,Data Scientist
+416,"C++, Go, JavaScript, Kotlin",TCS,7.24,Web Developer
+417,C++,Accenture,12.53,Data Scientist
+418,"Go, Swift",TCS,36.51,DevOps Engineer
+419,"Java, C++",Tesla,21.6,Web Developer
+420,Swift,Amazon,5.57,Software Engineer
+421,"C++, Kotlin, Java",Facebook,27.04,Web Developer
+422,"JavaScript, Ruby",Facebook,17.27,DevOps Engineer
+423,"Kotlin, Go",Wipro,25.82,Mobile App Developer
+424,"C++, Swift, Ruby, Kotlin",TCS,20.99,Mobile App Developer
+425,"Kotlin, JavaScript, C++",Amazon,38.82,Web Developer
+426,"Java, C++",IBM,29.45,Data Scientist
+427,"Swift, Ruby, Python, Java",Apple,7.71,Data Scientist
+428,Go,Tesla,26.03,Web Developer
+429,Go,Microsoft,26.89,Web Developer
+430,"JavaScript, PHP, Java, Python",IBM,32.41,Web Developer
+431,Kotlin,Amazon,18.84,Software Engineer
+432,Kotlin,IBM,8.16,Data Scientist
+433,"Ruby, C++, JavaScript",IBM,20.28,Web Developer
+434,"Python, Kotlin, Swift, PHP",IBM,38.71,Mobile App Developer
+435,"Python, Go, C++",Apple,25.43,Software Engineer
+436,"PHP, Ruby",Amazon,8.52,Web Developer
+437,"Ruby, Swift, Kotlin, Python",IBM,32.42,Software Engineer
+438,"JavaScript, Kotlin",IBM,10.73,Data Scientist
+439,"C++, PHP, Java",Facebook,8.47,Data Scientist
+440,"Python, PHP, Java, Swift",Apple,14.11,Web Developer
+441,"Java, Go",Amazon,27.69,Data Scientist
+442,"Ruby, PHP, Java",Apple,32.01,Data Scientist
+443,"Python, Go, Kotlin, Java",IBM,18.38,Web Developer
+444,"Python, Kotlin, C++",IBM,29.04,Software Engineer
+445,Go,Tesla,36.04,Mobile App Developer
+446,Swift,Tesla,31.7,Mobile App Developer
+447,"JavaScript, Python, Go, Ruby",IBM,9.36,Mobile App Developer
+448,Java,TCS,39.67,Web Developer
+449,JavaScript,Facebook,14.39,Mobile App Developer
+450,"Python, Ruby",Facebook,38.51,Web Developer
+451,"JavaScript, Python",Facebook,19.42,Software Engineer
+452,Ruby,Amazon,23.08,DevOps Engineer
+453,"JavaScript, PHP",IBM,37.1,Mobile App Developer
+454,"Ruby, Java",Facebook,36.24,Software Engineer
+455,Python,Accenture,10.5,Web Developer
+456,"Java, Python, PHP",Apple,22.37,Software Engineer
+457,"C++, Ruby, JavaScript",Amazon,26.87,Software Engineer
+458,"Go, Ruby",Apple,28.66,Web Developer
+459,"Kotlin, JavaScript",Microsoft,38.52,DevOps Engineer
+460,"Ruby, Java",Wipro,10.12,Mobile App Developer
+461,"Swift, Ruby, JavaScript, Python",Tesla,20.06,DevOps Engineer
+462,"Java, Swift, C++",TCS,30.71,Data Scientist
+463,"C++, Python, Java, JavaScript",Apple,17.88,Software Engineer
+464,"Swift, PHP, Go",Wipro,30.34,DevOps Engineer
+465,"Kotlin, C++",Wipro,34.34,Data Scientist
+466,"Java, Python, Go",Microsoft,16.46,Data Scientist
+467,"Swift, Java",Microsoft,27.74,DevOps Engineer
+468,"Swift, Python",Amazon,7.45,DevOps Engineer
+469,"JavaScript, Go, Ruby, Swift",Facebook,9.55,Data Scientist
+470,"JavaScript, Python, C++",Amazon,38.79,Mobile App Developer
+471,"PHP, Go, Kotlin",Facebook,25.84,Data Scientist
+472,"Swift, Kotlin, Python, Java",Wipro,14.27,Data Scientist
+473,Java,TCS,20.51,DevOps Engineer
+474,"Python, Java, Kotlin, JavaScript",Apple,24.01,Software Engineer
+475,"Kotlin, Go, Python, Swift",Tesla,25.49,Data Scientist
+476,"Ruby, Java",Amazon,30.73,DevOps Engineer
+477,Swift,IBM,21.85,Mobile App Developer
+478,Kotlin,Tesla,17.59,Data Scientist
+479,"Swift, Python, PHP, C++",Apple,12.22,DevOps Engineer
+480,"C++, Ruby, Kotlin",IBM,20.23,Software Engineer
+481,Ruby,Apple,18.79,Web Developer
+482,"Kotlin, PHP, Python",Apple,27.83,Web Developer
+483,"Go, Java, Kotlin",Tesla,31.0,DevOps Engineer
+484,C++,Wipro,15.06,Web Developer
+485,"Kotlin, Python",Wipro,29.52,Mobile App Developer
+486,Python,Google,29.82,DevOps Engineer
+487,"Ruby, Swift",Tesla,32.14,DevOps Engineer
+488,"JavaScript, Swift, Java, Kotlin",Wipro,12.08,Software Engineer
+489,"JavaScript, Ruby, Swift, Python",Facebook,6.64,Data Scientist
+490,Python,Facebook,38.84,Software Engineer
+491,"C++, Swift, Ruby",Google,35.45,Web Developer
+492,"Swift, Python, PHP, Ruby",Wipro,18.79,Mobile App Developer
+493,"Java, JavaScript",Amazon,12.33,Data Scientist
+494,"Go, Java, Python",Wipro,8.06,Mobile App Developer
+495,Ruby,Accenture,6.17,Data Scientist
+496,"C++, Go",Facebook,36.51,Data Scientist
+497,Go,Facebook,31.92,Data Scientist
+498,Kotlin,Amazon,16.12,Mobile App Developer
+499,"Go, JavaScript, Swift, Python",IBM,11.09,Mobile App Developer
+500,"Python, JavaScript, Swift, PHP",Facebook,30.82,Data Scientist
+501,"C++, Swift, Python",Accenture,6.64,Web Developer
+502,Ruby,Google,19.23,Web Developer
+503,Go,Apple,24.9,Software Engineer
+504,Ruby,Facebook,24.65,DevOps Engineer
+505,"Swift, Kotlin",TCS,29.2,DevOps Engineer
+506,"JavaScript, Go",Apple,9.81,Web Developer
+507,"PHP, C++",Wipro,18.29,Web Developer
+508,PHP,Apple,7.24,Data Scientist
+509,Java,TCS,27.71,Software Engineer
+510,"Go, Swift",Facebook,6.6,DevOps Engineer
+511,Ruby,Wipro,25.3,Data Scientist
+512,"PHP, Go, Java, Kotlin",Facebook,20.03,Data Scientist
+513,"Go, Ruby, JavaScript, Kotlin",Google,17.28,Data Scientist
+514,"Python, Java",Tesla,37.4,Software Engineer
+515,"C++, Ruby, Kotlin",Facebook,17.57,Mobile App Developer
+516,"Java, Go, Kotlin",IBM,38.8,Software Engineer
+517,Java,Wipro,31.37,Web Developer
+518,"Ruby, C++, Python, Java",Tesla,35.31,Mobile App Developer
+519,"C++, JavaScript",TCS,5.32,Software Engineer
+520,Kotlin,Accenture,29.57,Data Scientist
+521,"Swift, Java",Wipro,34.38,Web Developer
+522,"Go, JavaScript",Microsoft,37.77,Data Scientist
+523,"C++, Python",Accenture,34.26,Mobile App Developer
+524,"Kotlin, Go",Amazon,28.75,DevOps Engineer
+525,"Go, Python",Apple,36.75,Software Engineer
+526,"Java, PHP, Swift, Kotlin",Microsoft,29.48,Software Engineer
+527,"Ruby, JavaScript, PHP, Python",Google,32.59,Mobile App Developer
+528,"Kotlin, JavaScript",Facebook,35.11,Web Developer
+529,C++,Amazon,28.63,DevOps Engineer
+530,"C++, Go, Java",Microsoft,15.53,Mobile App Developer
+531,"C++, Java",Apple,25.34,Data Scientist
+532,PHP,Amazon,28.06,DevOps Engineer
+533,"JavaScript, C++, Swift, PHP",Microsoft,18.47,Software Engineer
+534,Python,Google,10.33,Web Developer
+535,"C++, PHP, Swift, Python",TCS,14.29,DevOps Engineer
+536,"Kotlin, Ruby, Java, Swift",Wipro,26.55,Mobile App Developer
+537,"PHP, Python",IBM,12.24,Software Engineer
+538,Swift,IBM,33.2,Software Engineer
+539,"Go, Java, PHP, C++",Amazon,8.42,Web Developer
+540,"JavaScript, Kotlin",IBM,6.25,Web Developer
+541,"Kotlin, PHP, C++",IBM,27.5,Software Engineer
+542,Ruby,Tesla,26.15,Mobile App Developer
+543,Swift,Accenture,33.87,DevOps Engineer
+544,"Go, Java, Ruby",Google,10.07,Data Scientist
+545,"Swift, JavaScript, C++, Java",Facebook,22.54,Software Engineer
+546,"PHP, Python",Tesla,30.47,Mobile App Developer
+547,JavaScript,Microsoft,24.23,Software Engineer
+548,"Go, C++, Ruby, JavaScript",Wipro,18.9,Mobile App Developer
+549,"JavaScript, Python",Google,39.11,Web Developer
+550,PHP,Microsoft,6.35,DevOps Engineer
+551,"Go, Swift",Accenture,7.05,Mobile App Developer
+552,"Java, Kotlin, Go, PHP",Apple,24.21,Mobile App Developer
+553,"Swift, Kotlin, PHP",IBM,8.43,Web Developer
+554,Go,Accenture,32.0,Software Engineer
+555,Swift,Wipro,18.87,Software Engineer
+556,"Go, Swift, JavaScript",Microsoft,23.12,DevOps Engineer
+557,"Swift, Kotlin",Apple,14.97,DevOps Engineer
+558,"Go, Java, Swift",Amazon,15.71,Web Developer
+559,PHP,Apple,16.38,Mobile App Developer
+560,Go,TCS,35.07,DevOps Engineer
+561,"JavaScript, Kotlin",Microsoft,31.65,Software Engineer
+562,"Ruby, Python, Kotlin, C++",IBM,8.43,Data Scientist
+563,"Ruby, JavaScript",Google,26.2,Mobile App Developer
+564,"Java, C++, Go, Python",Facebook,30.07,DevOps Engineer
+565,"Java, JavaScript, Swift, Go",Google,22.54,Data Scientist
+566,"C++, JavaScript",Tesla,31.94,Mobile App Developer
+567,"PHP, Ruby",Accenture,18.88,Mobile App Developer
+568,"Java, C++, Swift",Tesla,30.41,Software Engineer
+569,JavaScript,Microsoft,14.41,DevOps Engineer
+570,Go,Apple,16.23,Software Engineer
+571,"Ruby, Kotlin, PHP",Amazon,34.06,Web Developer
+572,"Python, Kotlin",TCS,25.37,Mobile App Developer
+573,Kotlin,Facebook,28.77,DevOps Engineer
+574,"Kotlin, Swift, PHP",Tesla,17.09,Web Developer
+575,"PHP, Swift, JavaScript, Ruby",Wipro,8.74,Web Developer
+576,"C++, Ruby, Kotlin",Apple,19.6,DevOps Engineer
+577,Swift,Wipro,23.9,Mobile App Developer
+578,"Java, C++, Swift, Kotlin",Accenture,26.81,Data Scientist
+579,JavaScript,TCS,26.03,Mobile App Developer
+580,"PHP, Swift, C++",Apple,30.68,Software Engineer
+581,"Ruby, JavaScript",Tesla,39.22,Data Scientist
+582,"Swift, JavaScript, C++",Facebook,12.86,Software Engineer
+583,"Swift, Python, JavaScript",Amazon,26.44,DevOps Engineer
+584,"Kotlin, PHP",Tesla,36.2,Data Scientist
+585,"Java, JavaScript, PHP, Ruby",Tesla,28.76,DevOps Engineer
+586,Swift,Amazon,15.46,Web Developer
+587,"Python, Java, Ruby",Amazon,20.82,Mobile App Developer
+588,"Ruby, PHP, Python, Go",TCS,21.04,Data Scientist
+589,"JavaScript, Java, Python",Accenture,6.32,Mobile App Developer
+590,"PHP, Python",Amazon,29.06,Mobile App Developer
+591,"Kotlin, Ruby, PHP",Accenture,39.76,DevOps Engineer
+592,"JavaScript, Python, C++, Kotlin",Amazon,30.22,Web Developer
+593,"PHP, Ruby, Go, JavaScript",Amazon,18.57,Web Developer
+594,"Swift, Python",Apple,28.27,Web Developer
+595,JavaScript,Apple,23.71,Data Scientist
+596,"PHP, Ruby",TCS,22.93,Web Developer
+597,"Java, Ruby, Kotlin, Swift",Wipro,22.76,Web Developer
+598,"Python, JavaScript, Ruby",Wipro,18.32,Software Engineer
+599,"Go, Swift",Accenture,28.18,DevOps Engineer
+600,"Kotlin, Swift",IBM,33.6,Web Developer
+601,"PHP, Swift, Python, Go",IBM,19.63,Mobile App Developer
+602,"Java, Kotlin, Go, JavaScript",Microsoft,26.98,Web Developer
+603,Go,Apple,27.07,DevOps Engineer
+604,"Kotlin, JavaScript, Java",Tesla,35.5,Web Developer
+605,"Swift, C++",Accenture,12.75,Web Developer
+606,Go,Microsoft,13.88,Data Scientist
+607,C++,Wipro,11.63,Web Developer
+608,"C++, JavaScript",Microsoft,20.91,DevOps Engineer
+609,Python,Amazon,17.01,Web Developer
+610,"Go, Swift, PHP, C++",Apple,13.54,Software Engineer
+611,"Java, Python, Ruby, Go",Amazon,22.88,Software Engineer
+612,Swift,Accenture,17.67,Web Developer
+613,"JavaScript, Ruby, C++",TCS,28.1,Web Developer
+614,"JavaScript, Go",Facebook,16.4,DevOps Engineer
+615,"C++, PHP",Google,39.36,Software Engineer
+616,"Python, Ruby, Swift, Kotlin",Facebook,23.92,Data Scientist
+617,JavaScript,Accenture,9.55,DevOps Engineer
+618,"Java, PHP",Google,29.15,Web Developer
+619,"Python, Ruby",Amazon,10.09,Data Scientist
+620,"Java, JavaScript, Python, Swift",Amazon,10.02,Software Engineer
+621,"Ruby, Python, Go",TCS,35.16,Web Developer
+622,"Ruby, Kotlin, C++, Python",Apple,19.54,Software Engineer
+623,"C++, Python, Kotlin",Google,17.46,Software Engineer
+624,"Ruby, Python, Swift, JavaScript",IBM,26.23,DevOps Engineer
+625,"PHP, JavaScript, Python",Apple,7.79,Software Engineer
+626,PHP,TCS,6.64,DevOps Engineer
+627,"Kotlin, C++, Ruby, Go",Amazon,18.67,DevOps Engineer
+628,"C++, Kotlin",IBM,15.56,Software Engineer
+629,"PHP, Ruby, Python, C++",Google,26.51,Web Developer
+630,"Java, Kotlin",Microsoft,35.8,Web Developer
+631,"Go, Python",Google,39.68,Software Engineer
+632,"JavaScript, Swift",Wipro,24.11,Web Developer
+633,"Ruby, Java, JavaScript, Go",IBM,13.59,Data Scientist
+634,Ruby,TCS,19.68,Data Scientist
+635,Python,Accenture,27.79,Data Scientist
+636,"Java, Go, Swift, JavaScript",Microsoft,35.09,DevOps Engineer
+637,JavaScript,Google,16.43,Data Scientist
+638,Python,IBM,34.24,Data Scientist
+639,"PHP, Java",IBM,38.17,DevOps Engineer
+640,"C++, Java, Ruby, Kotlin",Apple,35.34,Mobile App Developer
+641,"Swift, Kotlin, Java, PHP",Accenture,12.55,DevOps Engineer
+642,"Kotlin, Python, JavaScript, Go",Google,33.44,Mobile App Developer
+643,"Kotlin, JavaScript, Ruby",Apple,26.17,DevOps Engineer
+644,"Python, PHP, Kotlin",Amazon,36.66,Web Developer
+645,Kotlin,Facebook,28.83,Web Developer
+646,"PHP, C++, Swift, Ruby",Facebook,9.18,DevOps Engineer
+647,"Java, C++, JavaScript, Swift",Accenture,22.66,Software Engineer
+648,"C++, JavaScript, Ruby",Tesla,25.39,Software Engineer
+649,"C++, JavaScript, Go",Tesla,31.12,Mobile App Developer
+650,"Ruby, Java, PHP",TCS,9.26,DevOps Engineer
+651,"Java, Ruby, JavaScript",Microsoft,6.02,Web Developer
+652,"PHP, Go, Python",TCS,18.18,DevOps Engineer
+653,"Swift, Ruby",IBM,23.09,Data Scientist
+654,JavaScript,Accenture,31.59,Web Developer
+655,"Swift, Java, Ruby",Apple,37.06,Data Scientist
+656,"PHP, JavaScript",Microsoft,10.33,Data Scientist
+657,"JavaScript, Ruby, C++",Google,6.61,Data Scientist
+658,"C++, Ruby",Amazon,15.59,Data Scientist
+659,"Python, C++, JavaScript, Java",Wipro,16.02,Web Developer
+660,"Java, C++, Python",Wipro,39.09,DevOps Engineer
+661,"Go, Swift, C++, Kotlin",Accenture,21.86,Web Developer
+662,"Kotlin, C++",Wipro,14.74,Web Developer
+663,C++,Wipro,15.74,Data Scientist
+664,Java,TCS,7.92,Web Developer
+665,"Ruby, Go, C++, Java",Tesla,22.04,Web Developer
+666,Go,Wipro,28.5,Software Engineer
+667,"Ruby, Kotlin, PHP, Go",Apple,13.71,Web Developer
+668,PHP,Wipro,39.21,Mobile App Developer
+669,Go,Google,8.88,Mobile App Developer
+670,"C++, Java, Python, JavaScript",Wipro,17.64,Web Developer
+671,JavaScript,Amazon,12.89,Mobile App Developer
+672,Python,Tesla,13.26,Data Scientist
+673,"Kotlin, PHP, JavaScript, Python",Amazon,10.97,Web Developer
+674,"Swift, C++, Java, PHP",Microsoft,19.5,Software Engineer
+675,"Python, Java, Ruby",Tesla,22.12,Software Engineer
+676,"Kotlin, PHP, Swift",IBM,20.98,Web Developer
+677,Swift,Tesla,7.76,Web Developer
+678,"PHP, Swift, C++",Microsoft,21.42,DevOps Engineer
+679,"Kotlin, PHP, JavaScript, Go",Google,21.51,Mobile App Developer
+680,"Java, Go, Kotlin, PHP",Tesla,34.64,Software Engineer
+681,"Kotlin, C++, JavaScript, Ruby",Microsoft,13.83,Web Developer
+682,Go,Tesla,27.05,Data Scientist
+683,"Java, Swift, Go, JavaScript",Tesla,31.21,Mobile App Developer
+684,Swift,Accenture,19.0,DevOps Engineer
+685,"C++, Swift",Google,26.65,DevOps Engineer
+686,Go,IBM,35.78,Mobile App Developer
+687,Kotlin,Facebook,22.09,DevOps Engineer
+688,"Go, Java, Kotlin",Facebook,21.52,Software Engineer
+689,C++,Amazon,19.63,Mobile App Developer
+690,Kotlin,Microsoft,26.36,Software Engineer
+691,Swift,Google,5.25,DevOps Engineer
+692,"Go, Java",Apple,13.36,Software Engineer
+693,Python,IBM,23.91,Mobile App Developer
+694,"JavaScript, C++, Python, Go",Amazon,14.08,DevOps Engineer
+695,"Java, Python",Google,23.78,DevOps Engineer
+696,"C++, Kotlin, Swift",Apple,37.28,Web Developer
+697,Python,Wipro,12.16,DevOps Engineer
+698,"PHP, Java, Go",TCS,33.24,Software Engineer
+699,"Python, Java, C++",TCS,29.42,Web Developer
+700,"JavaScript, Go, C++",Apple,12.37,Web Developer
+701,Swift,Tesla,38.08,Data Scientist
+702,"Kotlin, Swift, JavaScript",Facebook,22.03,DevOps Engineer
+703,"Python, PHP",Google,26.46,Web Developer
+704,C++,Facebook,7.84,Web Developer
+705,"Swift, C++, JavaScript, Go",Microsoft,21.26,Web Developer
+706,"Go, Java, Ruby",TCS,20.81,Data Scientist
+707,Go,Wipro,8.83,DevOps Engineer
+708,"Kotlin, Go, Ruby",Accenture,9.61,Data Scientist
+709,Kotlin,Microsoft,35.26,Software Engineer
+710,"PHP, Ruby, Python",Accenture,10.07,Mobile App Developer
+711,"JavaScript, Java, Swift, PHP",Accenture,38.85,Data Scientist
+712,"Python, Ruby, PHP",TCS,34.53,DevOps Engineer
+713,Swift,IBM,38.79,Data Scientist
+714,"Go, Swift, Ruby",Apple,8.7,Mobile App Developer
+715,"Go, C++, Kotlin",IBM,31.16,Mobile App Developer
+716,"Kotlin, Ruby",Microsoft,19.58,Web Developer
+717,Go,Accenture,23.43,Web Developer
+718,"Swift, Go, Java, PHP",Amazon,26.46,Data Scientist
+719,"Go, Swift, JavaScript",Facebook,29.3,DevOps Engineer
+720,JavaScript,Amazon,18.56,Software Engineer
+721,Python,Google,6.83,Data Scientist
+722,"Go, Python",Wipro,25.57,DevOps Engineer
+723,Ruby,Accenture,9.56,Mobile App Developer
+724,"C++, Python, Ruby",Apple,26.13,Web Developer
+725,"PHP, Swift, Ruby, Go",Microsoft,12.69,Web Developer
+726,"Java, Ruby, Kotlin, C++",Facebook,38.09,Mobile App Developer
+727,"Swift, Java, JavaScript",Google,36.79,Mobile App Developer
+728,"JavaScript, Kotlin, Swift",Facebook,18.43,Software Engineer
+729,"Swift, Kotlin, JavaScript, Go",Amazon,16.59,Mobile App Developer
+730,"Python, Java, C++",IBM,10.27,Web Developer
+731,"Swift, C++",Facebook,33.13,Software Engineer
+732,"Python, Swift, C++",Facebook,26.0,Mobile App Developer
+733,"PHP, Swift",Apple,25.34,Data Scientist
+734,"Swift, PHP, Python, JavaScript",Wipro,21.96,Mobile App Developer
+735,Ruby,Facebook,31.92,Software Engineer
+736,Kotlin,Microsoft,10.14,DevOps Engineer
+737,PHP,Amazon,19.8,Mobile App Developer
+738,JavaScript,Google,33.22,Web Developer
+739,"Python, PHP",IBM,8.18,Software Engineer
+740,"Go, Swift",Tesla,35.88,Web Developer
+741,"Python, Swift, Java, C++",Google,20.3,Data Scientist
+742,"Ruby, Java, PHP, Python",Tesla,37.55,Software Engineer
+743,"JavaScript, Ruby, Kotlin, C++",Tesla,16.74,DevOps Engineer
+744,"C++, JavaScript",Amazon,39.13,Software Engineer
+745,"PHP, Ruby",Wipro,5.02,Software Engineer
+746,Python,Tesla,6.57,Mobile App Developer
+747,"Kotlin, PHP, Python, JavaScript",Amazon,22.83,Software Engineer
+748,"Ruby, JavaScript",Wipro,12.85,Data Scientist
+749,"JavaScript, Java",Facebook,23.53,Mobile App Developer
+750,"Ruby, Java",TCS,37.04,DevOps Engineer
+751,"Python, PHP, Kotlin",Facebook,6.72,Web Developer
+752,Python,Tesla,10.28,Web Developer
+753,Ruby,Amazon,13.46,Web Developer
+754,"Ruby, Python, Swift",Tesla,14.64,Software Engineer
+755,"Swift, Java, PHP",Amazon,33.48,Web Developer
+756,Ruby,Facebook,38.23,DevOps Engineer
+757,PHP,Amazon,23.14,Web Developer
+758,Java,Facebook,6.0,Mobile App Developer
+759,"Go, Kotlin",Wipro,15.64,Software Engineer
+760,JavaScript,TCS,27.84,Data Scientist
+761,"JavaScript, Kotlin",Tesla,11.13,Web Developer
+762,"Swift, Java, Python",Apple,5.19,Data Scientist
+763,"Python, Swift",Apple,6.46,Mobile App Developer
+764,"Python, Ruby, Kotlin, JavaScript",Apple,31.22,Software Engineer
+765,Ruby,Microsoft,21.29,Data Scientist
+766,JavaScript,Google,18.82,Web Developer
+767,"Swift, PHP",TCS,21.09,Data Scientist
+768,"Ruby, PHP, Swift",Google,15.29,Web Developer
+769,"Go, Ruby, JavaScript, Kotlin",Microsoft,8.24,Mobile App Developer
+770,"C++, Go, Python",TCS,24.97,Mobile App Developer
+771,"Go, Kotlin, Swift",Microsoft,7.96,Data Scientist
+772,"JavaScript, Go, PHP, Python",IBM,9.36,Data Scientist
+773,PHP,Tesla,14.25,Mobile App Developer
+774,"Ruby, Java, JavaScript",Accenture,5.95,Software Engineer
+775,"Go, C++, Kotlin, Swift",Wipro,31.33,DevOps Engineer
+776,"Java, Ruby, C++, JavaScript",Accenture,5.03,Web Developer
+777,"Swift, C++",TCS,34.62,DevOps Engineer
+778,"JavaScript, Java",Microsoft,22.28,Mobile App Developer
+779,"Swift, Ruby, C++",Facebook,32.71,Web Developer
+780,"JavaScript, PHP, C++",IBM,15.78,Mobile App Developer
+781,Go,Amazon,25.56,Software Engineer
+782,"Ruby, C++, Go, Java",Apple,9.13,Data Scientist
+783,"Python, Swift, Go, PHP",Amazon,29.52,Software Engineer
+784,"Java, C++",Facebook,37.09,Mobile App Developer
+785,"C++, JavaScript",Microsoft,12.19,Software Engineer
+786,Kotlin,Wipro,15.75,Software Engineer
+787,"C++, JavaScript, Go",Google,35.06,Web Developer
+788,Go,Accenture,32.83,Software Engineer
+789,"JavaScript, Python, Ruby, C++",Tesla,24.74,Web Developer
+790,"Java, Go, PHP",Google,37.49,DevOps Engineer
+791,"PHP, Kotlin, Java, Swift",Facebook,18.23,Software Engineer
+792,"C++, Java",Accenture,28.16,DevOps Engineer
+793,"Python, PHP, Go",Wipro,13.78,Web Developer
+794,"Swift, Python, Java, Go",Tesla,28.65,DevOps Engineer
+795,"C++, Java, Kotlin",Microsoft,15.68,Mobile App Developer
+796,"Java, C++, Go",TCS,36.05,Software Engineer
+797,"Swift, Ruby, Python, C++",Google,32.98,Web Developer
+798,"Kotlin, Python, Java, PHP",IBM,35.98,Data Scientist
+799,"Python, Kotlin",TCS,28.42,Mobile App Developer
+800,"Swift, JavaScript",Facebook,25.05,Data Scientist
+801,PHP,Amazon,39.72,DevOps Engineer
+802,JavaScript,Microsoft,36.56,Data Scientist
+803,"PHP, Ruby",Apple,35.74,Software Engineer
+804,"Ruby, Kotlin",Amazon,9.63,Data Scientist
+805,"C++, Java, JavaScript",Apple,22.81,DevOps Engineer
+806,"PHP, C++",Facebook,26.61,DevOps Engineer
+807,"Python, PHP, JavaScript",Tesla,37.02,Mobile App Developer
+808,"C++, PHP",Facebook,30.57,DevOps Engineer
+809,"Kotlin, Java",Facebook,23.28,DevOps Engineer
+810,"PHP, C++, Java",IBM,37.58,Software Engineer
+811,"C++, PHP, Swift",Accenture,18.14,Mobile App Developer
+812,"Swift, PHP",Wipro,15.37,Mobile App Developer
+813,Ruby,Apple,28.79,Software Engineer
+814,"Ruby, Swift",Wipro,20.34,Data Scientist
+815,"Java, Swift",Google,37.7,Data Scientist
+816,"JavaScript, Python, Swift",Google,29.54,Web Developer
+817,"Python, Ruby",IBM,34.23,Web Developer
+818,"Kotlin, Swift, Ruby",Facebook,30.45,Software Engineer
+819,C++,IBM,11.06,Software Engineer
+820,"Java, Ruby, Kotlin, C++",Apple,39.79,Web Developer
+821,Ruby,IBM,36.54,Software Engineer
+822,Java,Wipro,19.72,Mobile App Developer
+823,Python,Facebook,39.82,Web Developer
+824,"Go, C++, Swift",Wipro,15.79,Software Engineer
+825,"Kotlin, Swift",Apple,19.65,Data Scientist
+826,"Ruby, Kotlin",Tesla,28.22,Data Scientist
+827,"Java, Swift, Python",Microsoft,19.27,Web Developer
+828,PHP,Tesla,26.91,DevOps Engineer
+829,PHP,Tesla,32.98,Software Engineer
+830,Kotlin,Accenture,6.52,Mobile App Developer
+831,"JavaScript, Swift, C++",Amazon,37.72,DevOps Engineer
+832,"Go, JavaScript, Python",Microsoft,19.21,DevOps Engineer
+833,Python,Tesla,13.36,Mobile App Developer
+834,"C++, Kotlin, JavaScript, Go",Google,30.72,DevOps Engineer
+835,"PHP, Python, JavaScript, Kotlin",Facebook,36.98,Mobile App Developer
+836,C++,IBM,27.11,Web Developer
+837,"Go, Python, Ruby, Java",IBM,9.83,Web Developer
+838,"Swift, Ruby, JavaScript, Kotlin",TCS,36.31,Web Developer
+839,"C++, Java, Python, Go",Wipro,34.5,DevOps Engineer
+840,"C++, JavaScript, Swift, Kotlin",Wipro,15.9,Data Scientist
+841,Kotlin,Tesla,18.93,Mobile App Developer
+842,"PHP, Swift, Ruby",TCS,31.42,Data Scientist
+843,Python,Amazon,33.48,Web Developer
+844,"JavaScript, Java, Python, Ruby",Amazon,20.12,DevOps Engineer
+845,"Ruby, Kotlin, PHP, Go",Microsoft,30.6,Software Engineer
+846,"Kotlin, Swift",Wipro,19.7,Data Scientist
+847,"C++, JavaScript",Wipro,24.54,Data Scientist
+848,"Swift, C++",Apple,31.53,Data Scientist
+849,Python,IBM,18.21,Data Scientist
+850,"Ruby, Python",Microsoft,13.99,Mobile App Developer
+851,Ruby,Tesla,13.56,Mobile App Developer
+852,"Go, C++, PHP",Facebook,15.68,Data Scientist
+853,Java,Facebook,28.24,DevOps Engineer
+854,C++,Wipro,31.3,Mobile App Developer
+855,"Go, Ruby, Python, Java",TCS,30.3,Web Developer
+856,"Go, Java, JavaScript",Apple,12.67,Mobile App Developer
+857,"JavaScript, Ruby",Facebook,38.49,Web Developer
+858,"PHP, Go, Python, C++",Microsoft,30.23,Data Scientist
+859,"C++, Python, Ruby",Tesla,36.53,Data Scientist
+860,"Kotlin, Python",IBM,27.14,Web Developer
+861,"JavaScript, C++",Amazon,26.37,Data Scientist
+862,"Python, Ruby, Kotlin",TCS,25.8,DevOps Engineer
+863,"JavaScript, Python, Kotlin",Accenture,17.29,Software Engineer
+864,"C++, Python, Swift",TCS,9.77,Software Engineer
+865,"JavaScript, Java, C++, PHP",Accenture,29.6,Data Scientist
+866,"Kotlin, Java, PHP",Amazon,25.54,Web Developer
+867,Kotlin,Tesla,17.39,DevOps Engineer
+868,"JavaScript, Ruby",TCS,26.01,DevOps Engineer
+869,"C++, JavaScript, Java",Tesla,19.13,Web Developer
+870,PHP,IBM,19.88,Web Developer
+871,"JavaScript, Python, Ruby",Apple,14.15,DevOps Engineer
+872,"Kotlin, PHP, Go",Wipro,10.41,Web Developer
+873,"JavaScript, Python, Kotlin",IBM,36.14,DevOps Engineer
+874,C++,Google,36.75,Mobile App Developer
+875,"PHP, JavaScript, Swift",Accenture,28.42,Mobile App Developer
+876,"C++, Python, PHP",Amazon,35.27,Mobile App Developer
+877,"PHP, Swift, C++",IBM,21.35,DevOps Engineer
+878,"Go, C++, Ruby",Wipro,37.83,Web Developer
+879,"JavaScript, Go, Ruby",IBM,5.09,Mobile App Developer
+880,Kotlin,Wipro,9.57,Web Developer
+881,Ruby,TCS,37.49,Web Developer
+882,Java,IBM,34.24,Data Scientist
+883,"PHP, Go, Python",TCS,5.02,Data Scientist
+884,"Ruby, Java",Apple,38.11,Web Developer
+885,"Python, Kotlin, PHP, Ruby",TCS,33.16,DevOps Engineer
+886,"Go, PHP, Java, Kotlin",Wipro,9.22,Mobile App Developer
+887,Kotlin,Facebook,10.34,Mobile App Developer
+888,Swift,Amazon,26.7,DevOps Engineer
+889,"C++, Kotlin, Java",TCS,7.52,Data Scientist
+890,Kotlin,Wipro,38.75,Software Engineer
+891,"Go, Java",Accenture,30.38,Software Engineer
+892,"PHP, C++, Ruby, Swift",Accenture,5.42,DevOps Engineer
+893,C++,Wipro,19.82,Web Developer
+894,"Swift, Java, JavaScript",Tesla,21.65,Data Scientist
+895,JavaScript,Tesla,20.68,Data Scientist
+896,"Python, Kotlin",Amazon,16.58,Mobile App Developer
+897,"Go, Java",Microsoft,38.61,DevOps Engineer
+898,"Java, C++, Go",Tesla,38.49,Software Engineer
+899,"Kotlin, C++, Python",Microsoft,19.08,DevOps Engineer
+900,"Go, PHP",Facebook,12.32,Mobile App Developer
+901,Java,Microsoft,34.52,Web Developer
+902,"JavaScript, Kotlin, Java, C++",Facebook,24.99,DevOps Engineer
+903,"Kotlin, Python, Ruby",Apple,26.14,Web Developer
+904,"Go, Kotlin, Java, Ruby",Accenture,16.17,DevOps Engineer
+905,"JavaScript, C++, Go",TCS,5.07,Mobile App Developer
+906,"Swift, Kotlin, C++",Tesla,10.27,Data Scientist
+907,"PHP, Kotlin",Amazon,18.01,Web Developer
+908,Go,Google,7.89,Data Scientist
+909,"PHP, Go, C++",TCS,12.9,DevOps Engineer
+910,"C++, Swift",Microsoft,30.43,Software Engineer
+911,"Go, Ruby",Accenture,27.43,Mobile App Developer
+912,Swift,Apple,25.88,Data Scientist
+913,C++,TCS,37.18,DevOps Engineer
+914,Go,Google,16.99,Data Scientist
+915,"Go, Python, C++",Tesla,37.11,Data Scientist
+916,"JavaScript, Swift, C++",Wipro,14.25,Mobile App Developer
+917,"Kotlin, Swift",Accenture,22.85,Web Developer
+918,Kotlin,Accenture,37.27,Data Scientist
+919,"Java, Ruby",Facebook,6.05,Data Scientist
+920,"Java, PHP",IBM,5.81,Data Scientist
+921,"Go, PHP, Java",Apple,27.95,DevOps Engineer
+922,"Ruby, Kotlin",Apple,19.48,Data Scientist
+923,"Kotlin, Ruby, C++",Microsoft,30.47,Web Developer
+924,"PHP, JavaScript, Kotlin, Python",Wipro,15.67,Mobile App Developer
+925,"C++, Go",Microsoft,27.51,Mobile App Developer
+926,"Java, PHP",Accenture,24.8,DevOps Engineer
+927,"C++, Kotlin, PHP, Python",Facebook,39.18,Data Scientist
+928,"Go, PHP, Kotlin, Swift",IBM,20.14,Software Engineer
+929,"C++, JavaScript, Ruby, PHP",Tesla,26.73,Mobile App Developer
+930,Swift,IBM,34.9,Web Developer
+931,"Java, JavaScript",Apple,9.06,Data Scientist
+932,"Go, Ruby, Python, PHP",Tesla,17.53,Data Scientist
+933,"Swift, JavaScript, Python, Go",IBM,31.06,Web Developer
+934,"Java, Python",TCS,28.61,Web Developer
+935,"Ruby, PHP, Kotlin",Amazon,31.2,Data Scientist
+936,"Ruby, Go, PHP",Apple,35.21,DevOps Engineer
+937,"JavaScript, Go",Accenture,11.47,Software Engineer
+938,"Kotlin, Java",Facebook,18.85,Web Developer
+939,"Java, Go, Swift, Python",Microsoft,13.91,Software Engineer
+940,"Python, Go, Java, Kotlin",Google,23.53,DevOps Engineer
+941,Python,Tesla,32.56,DevOps Engineer
+942,"Swift, Ruby",Facebook,9.4,DevOps Engineer
+943,"Ruby, Swift, JavaScript",Microsoft,6.25,Software Engineer
+944,"Go, Kotlin",Google,10.17,Mobile App Developer
+945,"C++, JavaScript",Wipro,9.42,Web Developer
+946,"C++, Ruby",Apple,21.94,Mobile App Developer
+947,"Ruby, Go",Tesla,28.55,Mobile App Developer
+948,Python,Accenture,37.01,Software Engineer
+949,"Java, JavaScript",TCS,15.73,Software Engineer
+950,"Kotlin, Go, Ruby, Swift",Accenture,26.33,Mobile App Developer
+951,"Java, Kotlin",Facebook,20.3,Web Developer
+952,C++,Microsoft,38.15,Web Developer
+953,Go,Microsoft,32.87,DevOps Engineer
+954,"PHP, Python",Amazon,39.51,Web Developer
+955,"JavaScript, PHP",Tesla,34.2,Software Engineer
+956,Ruby,Google,16.2,Data Scientist
+957,Java,Tesla,11.13,DevOps Engineer
+958,Java,Amazon,14.91,DevOps Engineer
+959,Ruby,Wipro,33.2,Web Developer
+960,"Swift, Java, Go",Tesla,25.47,Software Engineer
+961,JavaScript,IBM,7.26,DevOps Engineer
+962,PHP,Google,34.23,Data Scientist
+963,"Kotlin, Go, Java, Ruby",IBM,27.7,Data Scientist
+964,Java,Apple,30.99,DevOps Engineer
+965,"JavaScript, C++, Kotlin, Python",IBM,11.14,Mobile App Developer
+966,"C++, PHP, Kotlin",IBM,22.19,DevOps Engineer
+967,"Ruby, Java",TCS,29.54,Data Scientist
+968,"Java, C++",Amazon,26.83,DevOps Engineer
+969,"Swift, JavaScript",Accenture,35.94,Data Scientist
+970,"Python, Ruby, PHP",TCS,19.91,Mobile App Developer
+971,"Swift, JavaScript, PHP",Accenture,32.52,Mobile App Developer
+972,Python,IBM,39.18,Data Scientist
+973,"Kotlin, C++, Ruby, Python",Google,11.93,Web Developer
+974,"Swift, PHP",TCS,16.48,Web Developer
+975,"Java, Go, JavaScript, Python",IBM,39.01,Data Scientist
+976,"C++, Go",IBM,11.36,Web Developer
+977,Kotlin,Facebook,13.95,Mobile App Developer
+978,Go,Amazon,21.14,DevOps Engineer
+979,"Python, C++, Java",Facebook,5.23,Software Engineer
+980,"Python, C++, Go, Kotlin",Accenture,33.92,Data Scientist
+981,Go,Wipro,15.88,Software Engineer
+982,"JavaScript, Kotlin, Swift",Apple,28.76,Software Engineer
+983,"Kotlin, JavaScript, Ruby, Java",IBM,13.61,DevOps Engineer
+984,Python,Apple,19.0,DevOps Engineer
+985,PHP,Amazon,9.76,Software Engineer
+986,Ruby,Microsoft,6.31,Data Scientist
+987,"Java, PHP",Apple,20.93,Mobile App Developer
+988,"PHP, Python, Ruby",Microsoft,10.57,Software Engineer
+989,"Kotlin, Go",Apple,19.73,DevOps Engineer
+990,Java,Accenture,38.15,Mobile App Developer
+991,"Kotlin, Java, Swift, JavaScript",Microsoft,6.56,Data Scientist
+992,Ruby,Apple,28.06,Mobile App Developer
+993,Kotlin,Microsoft,20.9,Web Developer
+994,"Ruby, Kotlin",Facebook,15.51,Software Engineer
+995,Java,Google,20.04,Mobile App Developer
+996,"Kotlin, C++",Amazon,20.78,DevOps Engineer
+997,"Go, C++",Facebook,6.68,DevOps Engineer
+998,"Swift, Ruby, Java, JavaScript",TCS,23.93,Software Engineer
+999,C++,IBM,12.92,Software Engineer
+1000,"Go, JavaScript, Ruby, Kotlin",Apple,18.89,Software Engineer
