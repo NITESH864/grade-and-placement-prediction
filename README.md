@@ -11,7 +11,7 @@ A Machine Learning based project that predicts **student grades** and **placemen
 - Includes trained models (`.pkl` files) for instant predictions.  
 - Well-documented dataset and preprocessing pipeline.  
 
----
+---------
 
 ## 🗂️ Project Structure  
 ```
